@@ -12,12 +12,6 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 <!-- Your screenshot should go here -->
 <img src="screenshot.png" alt="Screenshot"/><br/>
 
-### Automatic Installation
-1. Run the following command: `kitten themes`
-2. Search for `Eldritch` and press `Enter`
-3. This will select the theme and copy it to your kitty directory and add the include statement automatically
-4. Reload kitty
-
 ### Manual Installation
 1. Download the `Eldritch.conf` from this repository.
 2. Place in your kitty config directory, usually `~/.config/kitty/`.
